@@ -42,7 +42,7 @@
             menuCadastro.AutoSize = false;
             menuCadastro.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             menuCadastro.ForeColor = Color.White;
-            menuCadastro.Image = Properties.Resources.Justicon_Free_Simple_Line_Box_Arrow_Email_Mail_512;
+            menuCadastro.Image = Controle_de_Estoque.Properties.Resources.Justicon_Free_Simple_Line_Box_Arrow_Email_Mail_512;
             menuCadastro.ImageScaling = ToolStripItemImageScaling.None;
             menuCadastro.Name = "menuCadastro";
             menuCadastro.Size = new Size(280, 80);
@@ -54,7 +54,7 @@
             menuInOut.AutoSize = false;
             menuInOut.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             menuInOut.ForeColor = Color.White;
-            menuInOut.Image = Properties.Resources.Justicon_Free_Simple_Line_File_Exchange_Document_Arrow_512;
+            menuInOut.Image = Controle_de_Estoque.Properties.Resources.Justicon_Free_Simple_Line_File_Exchange_Document_Arrow_512;
             menuInOut.ImageScaling = ToolStripItemImageScaling.None;
             menuInOut.Name = "menuInOut";
             menuInOut.Size = new Size(280, 80);
@@ -66,7 +66,7 @@
             menuInventario.AutoSize = false;
             menuInventario.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             menuInventario.ForeColor = Color.White;
-            menuInventario.Image = Properties.Resources.Justicon_Free_Simple_Line_Building_Area_Barrier_Build_512;
+            menuInventario.Image = Controle_de_Estoque.Properties.Resources.Justicon_Free_Simple_Line_Building_Area_Barrier_Build_512;
             menuInventario.ImageScaling = ToolStripItemImageScaling.None;
             menuInventario.Name = "menuInventario";
             menuInventario.Size = new Size(280, 80);
@@ -78,7 +78,7 @@
             menuRelatorios.AutoSize = false;
             menuRelatorios.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             menuRelatorios.ForeColor = Color.White;
-            menuRelatorios.Image = Properties.Resources.Justicon_Free_Simple_Line_Report_Clip_Board_Medical_Data_Business_512;
+            menuRelatorios.Image = Controle_de_Estoque.Properties.Resources.Justicon_Free_Simple_Line_Report_Clip_Board_Medical_Data_Business_512;
             menuRelatorios.ImageScaling = ToolStripItemImageScaling.None;
             menuRelatorios.Name = "menuRelatorios";
             menuRelatorios.Size = new Size(280, 80);
